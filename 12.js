@@ -20,4 +20,5 @@ function printArray(arr, number) {
     
     
 
-printArray(arr,2);
+printArray(arr,4);
+
